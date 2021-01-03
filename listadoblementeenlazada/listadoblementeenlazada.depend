@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538529485 source:c:\users\usuario\desktop\listadoblementeenlazada\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

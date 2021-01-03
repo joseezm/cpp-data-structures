@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538855582 source:c:\users\usuario\desktop\listacircularv2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

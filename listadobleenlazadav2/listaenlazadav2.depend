@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537988800 source:c:\users\usuario\desktop\listaenlazadav2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

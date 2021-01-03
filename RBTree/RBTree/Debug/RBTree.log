@@ -1,0 +1,3 @@
+﻿  RBTree.cpp
+c:\users\usuario\desktop\rbtree\rbtree\rbtree.cpp(337): warning C4101: 'u': variable local sin referencia
+  RBTree.vcxproj -> C:\Users\Usuario\Desktop\RBTree\Debug\RBTree.exe

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1538780838 source:c:\users\usuario\desktop\arbolbinariov2\src\bintree.cpp
+	"bintree.h"
+	<iostream>
+
+1538780817 c:\users\usuario\desktop\arbolbinariov2\include\bintree.h
+
+1538859750 source:c:\users\usuario\desktop\arbolbinariov2\main.cpp
+	<iostream>
+
